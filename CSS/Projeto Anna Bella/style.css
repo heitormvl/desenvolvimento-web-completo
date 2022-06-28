@@ -5,8 +5,19 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#capa{
+    width: 100%;
+}
+
+#campanha{
+    width: 70%;    
+}
+
 #principal {
-    width: 900px;
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    text-align: justify;
 }
 
 #navbar {
